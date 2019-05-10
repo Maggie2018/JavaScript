@@ -8,7 +8,7 @@ I'm a
 ## Learning Path
 HTML--CSS--JavaScript--jQuery/DOM/Bootstrap etc. (to be updated)
 
-## Books：
+## Books
 1. JavaScript权威指南（原书第6版）
 2. JavaScript高级程序设计（第3版）
 3. GitHub入门与实践【服务于提升输出能力】
