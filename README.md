@@ -3,7 +3,6 @@ Practice makes better. Practice every day, and get better every day!
 
 ## Repository Introduction
 This repository is my small world for learning and practicing JavaScript. Some helpful resources or links will be posted here for use. 
-I'm a 
 
 ## Learning Path
 HTML--CSS--JavaScript--jQuery/DOM/Bootstrap etc. (to be updated)
