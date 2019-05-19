@@ -1,5 +1,5 @@
 # JavaScript
-Path: HTML--> CSS --> JavaScript --> jQuery/JSON --> Bootstrap --> SQL --> ...
+Path: HTML--> CSS --> JavaScript --> jQuery/JSON --> Bootstrap --> SQL/MySQL --> ...
 
 ## Repository Introduction
 This repository is my small world for learning and practicing JavaScript. Some helpful resources or links will be posted here for use. 
