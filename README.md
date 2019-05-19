@@ -17,8 +17,8 @@ HTML--CSS--JavaScript--jQuery/DOM/Bootstrap etc. (to be updated)
 ## Website
 1. [FreeCodeCamp](https://www.freecodecamp.cn/maggie2018)
 2. [MDN-JavaScript](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
-3. [W3school-JavaScript](http://www.w3school.com.cn/example/jseg_examples.asp)
-   [W3school-en] (https://www.quanzhanketang.com/js/default.html)
+3. [W3school-JS-ch](http://www.w3school.com.cn/example/jseg_examples.asp)
+   [W3school-JS-en](https://www.quanzhanketang.com/js/default.html)
 4. [coursera-Johns Hopkins University-JavaScript](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 5. [liaoxuefeng-JavaScript](https://www.liaoxuefeng.com/wiki/1022910821149312)
 6. [Leetcode](https://leetcode.com/explore/)【Go there when I am a real coder~】
