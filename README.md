@@ -1,11 +1,11 @@
 # JavaScript
-Path: HTML--> CSS --> JavaScript --> jQuery --> Bootstrap --> SQL --> ...
+Path: HTML--> CSS --> JavaScript --> jQuery/JSON --> Bootstrap --> SQL --> ...
 
 ## Repository Introduction
 This repository is my small world for learning and practicing JavaScript. Some helpful resources or links will be posted here for use. 
 
 ## Learning Path
-HTML--CSS--JavaScript--jQuery/DOM/Bootstrap etc. (to be updated)
+HTML--CSS--JavaScript--jQuery/JSON/DOM/Bootstrap etc. (to be updated)
 
 ## Books
 1. JavaScript权威指南（原书第6版）
